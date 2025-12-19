@@ -71,10 +71,19 @@
     margin: 20px;
 }
 
-.cards button {
-    position: absolute;
-    bottom: 30px;
-    right: 300px;
+.acoes {
+    color: #BBBBBC;
+    margin-top: 190px;
+    margin-right: 10px;
     display: flex;
-    gap: 8px;
+    justify-content: flex-end;
+    gap: 10px;
+}
+
+.acoes button {
+    background-color:#1D1D20;
+    color:#BBBBBC ;
+    border: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
 }
