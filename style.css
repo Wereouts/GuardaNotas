@@ -50,12 +50,22 @@
 
 }
 
+.botaoExcluir{
+    background-color: red;
+    color: white;
+    border-radius: 2px;
+    border: none;
+    height: 38px;
+}
+
 .CardPrincipal {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 50px;
     gap: 25px;
+    flex-wrap: wrap;
+    width: 80%;
 
 }
 
