@@ -50,4 +50,4 @@ Para remover tudo, clique em Excluir tudo e confirme a ação.
 
 [ ] Melhorar a responsividade para dispositivos móveis menores.
 
-Desenvolvido com 💜 para fins de estudo de manipulação de DOM.
+Baseado no projeto figma: Guardanotas - Aplicativo CRUD (Community)
