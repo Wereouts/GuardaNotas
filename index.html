@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guarda Notas</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="body">
+    <section class="cabecalho">
+        <h4 class="h4">SALVE SUAS IDEIAS COM NOTAS ONLINE</h4>
+        <h1 class="guardaNotas">GUARDA NOTAS ✍️</h1>
+    </section>
+
+    <div class="campoNota">
+        <textarea type="text" name="novaNota" id="novaNota" placeholder="Escreva uma nova nota..."
+            maxlength="200"></textarea>
+        <p class="quatidadeDeCaractere">0/200</p>
+        <button class="botaoAdicionar" onclick="verificaButton()">Adicionar</button>
+        <button class="botaoExcluir" onclick="excluirTodosCards()">Excluir tudo</button>
+    </div>
+    <div class="CardPrincipal">
+        <script src="index.js"></script>
+</body>
+
+</html>
