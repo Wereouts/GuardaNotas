@@ -1,6 +1,9 @@
 ✍️ Guarda Notas
 O Guarda Notas é uma aplicação web simples e funcional para criação de notas rápidas. O objetivo é permitir que o usuário salve ideias, organize pensamentos e gerencie pequenos lembretes em uma interface escura (dark mode) moderna e intuitiva.
 
+<img width="1721" height="643" alt="image" src="https://github.com/user-attachments/assets/8d052bed-e68f-49a3-92d2-7a94600d51cf" />
+
+
 🚀 Funcionalidades
 Adição de Notas: Escreva textos de até 200 caracteres e adicione-os como cards na tela.
 
